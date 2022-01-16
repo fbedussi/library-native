@@ -1,0 +1,6 @@
+- variabili ambiente
+- errori http
+- Redirect
+- Global style
+- firebase
+- alternativa a local storage

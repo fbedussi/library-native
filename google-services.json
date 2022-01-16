@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230973004906",
+    "project_id": "library-native-d7abf",
+    "storage_bucket": "library-native-d7abf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230973004906:android:193bac51df089eadbe3e13",
+        "android_client_info": {
+          "package_name": "com.fbedussi.library"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230973004906-kun4as7gehu5nu1lu43bdh09bm2kg94r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAW_z_19kH9hhhjxchrN-G4QtmcqzLd7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230973004906-kun4as7gehu5nu1lu43bdh09bm2kg94r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
